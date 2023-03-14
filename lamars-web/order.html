@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Lamar's Donuts - Order</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="order.css">
+    </head>
+<body>
+    <!-- Nav Bar -->
+    <header>
+        <nav class="navbar navbar-expand-lg " style="background-color: #e3f2fd;">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">
+                <img src="public/images/logo.png" alt="Logo" width="120" height="70" class="d-inline-block align-text-top">
+              </a>      
+              <div class="navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav nav nav-fill w-100">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="index.html">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="index.html#locations">Locations</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="order.html">Order Now!</a>
+                  </li>
+                </ul>
+              </div>
+            </div>     
+        </nav>
+    </header>
+    <!-- MENU -->
+    <section class="menu container">
+        <h2 class="section-title">Menu Items</h2>
+        <div id="menu-template"></div>
+        <!-- Content -->
+        <div class="menu-content">         
+          <!-- CART -->
+          <div class="cart fixed-right">
+            <h2 class="cart-title">Your Cart</h2>
+            <!-- CONTENT -->
+            <div class="cart-content"></div>
+            <!-- Total -->
+            <div class="total">
+              <div class="total-title">Total</div>
+              <div class="total-price">$0</div>
+            </div>
+            
+            <!-- Buy Button -->
+            <button class="btn-buy">Buy Now</button>
+            <!-- Cart Close -->
+            <i class="fa-sharp fa-solid fa-x" id="close-cart"></i>
+          </div> 
+        </div>       
+    </section>
+    <!-- Footer/Contact Section -->
+    <footer id="contact">
+      <h4>Contact Us!</h4>
+      <div>Please feel free to contact us at 1-888-78-LAMAR for any questions or concerns.</div>
+      <div>We want your LaMar's experience to always be fun, friendly, and unforgettable!</div>
+    </footer>
+    <!-- Link TO JS -->
+    <script src="https://kit.fontawesome.com/dde85b5f7f.js" crossorigin="anonymous"></script>
+    <script src="order.js"></script>
+</body>
+</html>

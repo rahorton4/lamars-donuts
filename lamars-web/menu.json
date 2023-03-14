@@ -1,0 +1,155 @@
+{
+    "products": [
+        {
+            "category": "Donuts by the Dozen",
+            "name": "Glazed Donuts",
+            "imgUrl": "public/images/dozen-glazed.jpg",
+            "price": "$28.29"
+        },
+        {
+            "category": "Donuts by the Dozen",
+            "name": "Cake Donuts",
+            "imgUrl": "public/images/cake-donuts.jpg",
+            "price": "$28.29"
+        },
+        {
+            "category": "Donuts by the Dozen",
+            "name": "Mixed Cake & Glazed",
+            "imgUrl": "public/images/mixed-donuts.jpg",
+            "price": "$28.29"
+        },
+        {
+            "category": "Donut with a Hole",
+            "name": "Ray's Original Glazed",
+            "imgUrl": "public/images/single-glazed-donut.jpg",
+            "price": "$2.39"
+        },
+        {
+            "category": "Donut with a Hole",
+            "name": "Ray's Chocolate Donut",
+            "imgUrl": "public/images/chocolate-donut.jpg",
+            "price": "$2.39"
+        },
+        {
+            "category": "Donut with a Hole",
+            "name": "Blueberry Cake Donut",
+            "imgUrl": "public/images/blueberry-donut.jpg",
+            "price": "$2.39"
+        },
+        {
+            "category": "Donut with a Hole",
+            "name": "Sour Cream Cake Donut",
+            "imgUrl": "public/images/sour-cream-cake.jpg",
+            "price": "$2.39"
+        },
+        {
+            "category": "Donut with a Hole",
+            "name": "Maple Iced Cake Donut",
+            "imgUrl": "public/images/maple-iced-cake.jpg",
+            "price": "$2.39"
+        },
+        {
+            "category": "Donut with a Hole",
+            "name": "Devil's Chocolate Iced",
+            "imgUrl": "public/images/devils-chocolate-cake.jpg",
+            "price": "$2.39"
+        },
+        {
+            "category": "Donut with a Hole",
+            "name": "Red Velvet Glazed",
+            "imgUrl": "public/images/red-velvet-glazed.jpg",
+            "price": "$2.39"
+        },
+        {
+            "category": "Specialty Donuts",
+            "name": "Glazed Apple Fritter",
+            "imgUrl": "public/images/apple-fritter.jpg",
+            "price": "$3.83"
+        },
+        {
+            "category": "Specialty Donuts",
+            "name": "Glazed Bismark",
+            "imgUrl": "public/images/glazed-bismark.jpg",
+            "price": "$3.98"
+        },
+        {
+            "category": "Specialty Donuts",
+            "name": "Two Tone Knot Glazed",
+            "imgUrl": "public/images/two-tone.jpg",
+            "price": "$3.98"
+        },
+        {
+            "category": "Specialty Donuts",
+            "name": "German Chocolate Knot",
+            "imgUrl": "public/images/german-chocolate.jpg",
+            "price": "$3.98"
+        },
+        {
+            "category": "Hot Beverages",
+            "name": "Brewed Coffee",
+            "imgUrl": "public/images/coffee.jpg",
+            "price": "$3.85"
+        },
+        {
+            "category": "Hot Beverages",
+            "name": "Caffe Latte",
+            "imgUrl": "public/images/latte.jpg",
+            "price": "$4.33"
+        },
+        {
+            "category": "Hot Beverages",
+            "name": "Café Mocha",
+            "imgUrl": "public/images/mocha.jpg",
+            "price": "$5.29"
+        },
+        {
+            "category": "Hot Beverages",
+            "name": "Espresso",
+            "imgUrl": "public/images/espresso.jpg",
+            "price": "$3.79"
+        },
+        {
+            "category": "Hot Beverages",
+            "name": "Hot Chai Tea",
+            "imgUrl": "public/images/hot-chai.jpg",
+            "price": "$4.49"
+        },
+        {
+            "category": "Hot Beverages",
+            "name": "Café Au Lait",
+            "imgUrl": "public/images/cafe-au-lait.jpg",
+            "price": "$3.79"
+        },
+        {
+            "category": "Iced Beverages",
+            "name": "Iced Latte",
+            "imgUrl": "public/images/iced-latte.jpg",
+            "price": "$4.39"
+        },
+        {
+            "category": "Iced Beverages",
+            "name": "Iced Coffee",
+            "imgUrl": "public/images/iced-coffee.jpg",
+            "price": "$3.89"
+        },
+        {
+            "category": "Iced Beverages",
+            "name": "Café Mocha",
+            "imgUrl": "public/images/iced-mocha.jpg",
+            "price": "$5.17"
+        },
+        {
+            "category": "Bottled",
+            "name": "Milk",
+            "imgUrl": "public/images/bottled-milk.jpg",
+            "price": "$3.89"
+        },
+        {
+            "category": "Bottled",
+            "name": "Water",
+            "imgUrl": "public/images/bottled-water.jpg",
+            "price": "$3.23"
+        }
+    ]
+    
+}

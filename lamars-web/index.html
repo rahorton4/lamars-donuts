@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lamar's Donuts - Home</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Nav Bar -->
+    <header>
+        <nav class="navbar navbar-expand-lg " style="background-color: #e3f2fd;">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="#">
+                <img src="public/images/logo.png" alt="Logo" width="120" height="70" class="d-inline-block align-text-top">
+              </a>      
+              <div class="navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav nav nav-fill w-100">
+                  <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#about">About</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#locations">Locations</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#contact">Contact</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="order.html">Order Now!</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- About Section -->
+    <section id="about">
+      <h1>Lamar's in the News</h1>
+      <div id="carouselNews" class="carousel slide" data-bs-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-bs-target="#carouselNews" data-bs-slide-to="0" class="active"></li>
+          <li data-bs-target="#carouselNews" data-bs-slide-to="1"></li>
+          <li data-bs-target="#carouselNews" data-bs-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block" src="public/images/nbc.png" alt="First slide">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>NBC's The Tonight Show host Jay Leno dubbed LaMar's Donuts founder Raymond Lamar the undisputed "King of donuts."</h5>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block" src="public/images/hallmark.png" alt="Second slide">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Hallmark Cards designed a greeting card, in the shape of a donut, in Ray Lamar's honor</h5>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <img class="d-block" src="public/images/food-network.png" alt="Third slide" style="width: 330px; height: 280px; z-index: 3;">
+            <div class="carousel-caption d-none d-md-block">
+              <h5>Food Network featured LaMar's Donuts in the network prime-time series called "Unwrapped."</h5>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselNews" role="button" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only underline">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselNews" role="button" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only sr-only underline">Next</span>
+        </a>
+      </div>
+      <h1>History Of Lamar's</h1>
+        <div class="about-history">
+          <img src="public/images/first-location.jpg" alt="Lamar's Gas Station">
+          The roots of LaMar’s Donuts date back to 1933 when Ray Lamar, 17, began making donuts at the Jack Frost Donuts Company.
+          During those days, wholesale donuts were made in the morning and the store opened for retail business at 11am and stayed open until midnight. Back then, a dozen donuts cost 18 cents. By the early 1940s, Ray Lamar introduced new flavors, devil’s food donuts, chocolate iced donuts and an apple spice donut to the menu. 
+          Ray Lamar opened the first LaMar’s Donuts in a converted gas station on Linwood Blvd. in Kansas City, Missouri, in 1960. Locals immediately flocked to the homemade donuts and LaMar’s Donuts became a Kansas City institution. Lines started forming before 6 a.m., and by closing time more than 11,000 donuts are sold at this single location.
+          Based on the donut shop’s phenomenal success and widespread reputation, Ray LaMar and his wife Shannon, made the decision in 1990 to franchise LaMar’s Donuts. Today, we have 24 locations in five states: Arizona, Colorado, Kansas, Missouri, and Nebraska. 
+          Hallmark Cards designed a greeting card in his honor and the Kansas Trivial Pursuit game has a question that reads: “Where do you stand in line for donuts in Kansas City?” Answer: LaMar’s Donuts. 
+        </div>
+      <h1 class="no-b-padding">Fun Donut Facts!</h1>
+      <div class="row">
+        <div class="col">
+          <li>The first Friday in June and November 5th are National Doughnut Day.</li>
+           <li>The most expensive donut costs $100. It's made of edible diamonds, chocolate balsamic vinegar, and other secret ingredients</li>
+          <li>Over 10 billion donuts are made in the U.S. each year</li>
+        </div>
+        <div class="col"><li>Between our locations, LaMar’s Donuts produces 344,700 donuts per week, which is 17.9 million donuts per year.</li>
+          <li>Donuts were orignally called <i>olykoeks</i>, meaning "oily cakes."</li>
+          <li>The largest donut ever made was an American-style jelly donut weighing 1.7 tons, which was 16 feet in diameter and 16 inches high in the center.</li>
+        </div>
+      </div>  
+    </section>
+
+    <!-- Locations Section -->
+    <section id="locations">
+      <h1>Where to find us!</h1>
+      <div id="location-template"></div>
+      </div>
+      <hr />      
+    </section>
+
+    <!-- Footer/Contact Section -->
+    <footer id="contact">
+      <h4>Contact Us!</h4>
+      <div>Please feel free to contact us at 1-888-78-LAMAR for any questions or concerns.</div>
+      <div>We want your LaMar's experience to always be fun, friendly, and unforgettable!</div>
+    </footer>
+
+    <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js" integrity="sha384-mQ93GR66B00ZXjt0YO5KlohRA5SY2XofN4zfuZxLkoj1gXtW8ANNCe9d5Y3eG5eD" crossorigin="anonymous"></script>
+</body>
+</html>
+
+
+<!-- add to templates for links
+  <a href="#" class="card-link">Card link</a>
+              <a href="#" class="card-link">Another link</a> --> 

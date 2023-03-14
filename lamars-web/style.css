@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;700&family=Pacifico&family=Righteous&display=swap');
+
+  *{
+    font-family: 'Cabin', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none; 
+  }
+
+  body {
+    background-color: #badcf5;
+  }
+
+  section {
+    display: block;
+    margin: auto;
+    background-color: white;
+    align-items: center;
+    width: 85%;
+    padding: 30px 20px;
+    
+   }
+
+   h1 {
+    font-family: 'Pacifico';
+    color: rgb(245, 178, 7);
+    padding: 20px 0;
+   }
+
+   h3 {
+    display: block;
+    font-family: 'Pacifico';
+    color: rgb(112, 52, 3); 
+   }
+
+   h5 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+   }
+
+   .no-b-padding {
+    padding-bottom: 0;
+    margin-bottom: 0;
+   }
+
+   .bold {
+    font-weight: bold;
+   }
+
+   .underline {
+    text-decoration: underline;
+   }
+
+/*-------------------------------- Nav Bar --------------------------------*/
+  nav {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    z-index: 100;
+  }
+  
+  .nav-link {
+    font-family: 'Pacifico';
+    font-size: 1.5rem;
+  }
+
+/*-------------------------------- About --------------------------------*/
+
+ #about div {
+  margin: 10px;
+ }
+
+ .about-history img {
+  float: right;
+  margin-left: 8px;
+ }
+ 
+#carouselNews {
+  position: relative;
+  background-color: white;
+  left: 50%;
+  transform: translateX(-50%);  
+  width: 600px;
+  max-height: 30rem;
+}
+
+/* previous and next text color  */
+.sr-only {
+  color: black;
+}
+
+.carousel-item img {
+  position: relative;
+  vertical-align: top;;
+  width: 80%;
+  height: 280px;
+  margin: 0 auto 8rem;
+}
+
+ ul, div > li {
+  list-style: none;
+  width: 100%;
+}
+
+div > li{
+  margin: 15px 0;
+}
+
+div > li:before {
+  content: '';
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+  vertical-align: middle;
+  background-size: 15px;
+  background-image: url("images/pink\ donut.png");
+  background-repeat: no-repeat;
+}
+
+
+/*-------------------------------- Locations --------------------------------*/
+
+.location-card {
+  display: inline-block;
+  padding: 0px;
+  margin: 10px;
+  color: white;  
+}
+
+.card-title {
+  font-family: 'Righteous', cursive;
+  text-decoration: underline;
+}
+
+.card-body {
+  background-color: rgb(6,53,111);
+  border-radius: 11px 12px 12px 12px;
+}
+
+/*-------------------------------- Footer --------------------------------*/
+
+footer{
+  background-color: #2b7bb5;
+  opacity: 30%;
+  text-align: center;
+  padding: 3rem;
+  color: white;
+  box-shadow: inset 0px 9px 31px -11px rgba(0,0,0,0.75);
+}

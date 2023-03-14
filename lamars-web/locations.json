@@ -1,0 +1,205 @@
+{
+    "locations": [
+        {
+            "state": "Arizona",
+            "city": "Phoenix",
+            "address": "2340 W Bell Rd. Suite 138, Phoenix, AZ, 85023",
+            "phone": "(602) 896-1171",
+            "fax": "(602) 896-1171",
+            "hours": "5:30am – 1:00pm Mon-Thu <br /> 6:00am – 1:00pm Fri-Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Denver",
+            "address": "3600 S Yosemite St., Suite 750, Denver, CO 80237",
+            "phone": "(303) 771-9999",
+            "fax": "(303) 771-9991",
+            "hours": "8:00am – 5:00pm Mon-Fri <br /> CLOSED Sat-Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Denver",
+            "address": "990 W 6th Ave., Unit 6 & 7, Denver, CO 80204",
+            "phone": "(720) 904-5792",
+            "fax": "(720) 904-0388",
+            "hours": "3:00am – 5:00pm Mon-Sat <br /> 4:00am – 5:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Denver",
+            "address": "2120 S Broadway <br /> Denver, CO 80210",
+            "phone": "(303) 733-4704",
+            "fax": "(303) 733-4734",
+            "hours": "4:00am – 3:00pm Mon-Sat <br /> 5:00am - 3:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Englewood",
+            "address": "11804 E. Oswego St., Unit A, Englewood, CO 80112",
+            "phone": "(720) 798-2020",
+            "fax": "(720) 805-1100",
+            "hours": "4:00am – 3:00pm Mon-Sat <br /> 5:00am – 3:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Ft. Collins",
+            "address": "1101 W Drake Rd., Suite A-1, Fort Collins, CO 80526",
+            "phone": "(970) 223-2131",
+            "fax": "(970) 223-4008",
+            "hours": "4:00am – 7:00pm Mon-Sat <br /> 5:00am – 7:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Ft. Collins",
+            "address": "140 E Boardwalk Dr., Unit K, Fort Collins, CO 80525",
+            "phone": "(970) 377-2433",
+            "fax": "(970) 226-8921",
+            "hours": "4:00am – 4:00pm Mon-Sat <br /> 5:00am – 4:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Highlands Ranch",
+            "address": "9360 S Colorado Blvd., Suite B, Highlands Ranch, CO 80126",
+            "phone": "(303) 791-4327",
+            "fax": "(303) 791-9287",
+            "hours": "4:00am – 6:00pm Mon-Sat <br /> 5:00am – 5:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Littleton",
+            "address": "5350 S Santa Fe Dr., Unit E, Littleton, CO 80120",
+            "phone": "(720) 283-1790",
+            "fax": "(720) 283-1788",
+            "hours": "4:00am – 4:00pm Mon-Sat <br /> 5:00am – 4:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Louisville",
+            "address": "133 McCaslin Blvd., <br /> Louisville, CO 80027",
+            "phone": "(720) 890-3875",
+            "fax": "(720) 890-8359",
+            "hours": "5:00am – 6:00pm Mon-Sat <br />6:00am – 3:00pm Sun"
+        },
+        {
+            "state": "Colorado",
+            "city": "Westminister",
+            "address": "9940 N Wadsworth Pkwy., Suite 100, Westminster, CO 80021",
+            "phone": "(720) 377-3974",
+            "fax": "(720) 377-3976",
+            "hours": "3:00am – 6:00pm Mon-Sat <br />4:00am – 4:00pm Sun"
+        },
+        {
+            "state": "Kansas",
+            "city": "Mission",
+            "address": "5901 Johnson Dr., <br />Mission, KS 66202",
+            "phone": "(913) 362-7700",
+            "fax": "N/A",
+            "hours": "6:00am – 12:00pm Mon-Sun <br />CLOSED Major Holidays"
+        },
+        {
+            "state": "Kansas",
+            "city": "Westminister",
+            "address": "9940 N Wadsworth Pkwy., Suite 100, Westminster, CO 80021",
+            "phone": "(720) 377-3974",
+            "fax": "(720) 377-3976",
+            "hours": "3:00am – 6:00pm Mon-Sat <br />4:00am – 4:00pm Sun"
+        },
+        {
+            "state": "Kansas",
+            "city": "Overland Park",
+            "address": "8615 College Blvd., <br />Overland Park, KS 66210",
+            "phone": "(913) 469-0699",
+            "fax": "(913) 469-0911",
+            "hours": "4:00am – 4:00pm Mon-Sun <br />CLOSED Major Holidays"
+        },
+        {
+            "state": "Kansas",
+            "city": "Wichita",
+            "address": "10051 W 21st St. N, Suite 103, Wichita, KS 67205",
+            "phone": "(316) 773-3775",
+            "fax": "(316) 773-3932",
+            "hours": "4:00am – 3:00pm Mon-Sat <br />5:00am – 3:00pm Sun"
+        },
+        {
+            "state": "Kansas",
+            "city": "Wichita",
+            "address": "3130 N Rock Rd., Suite 130, Wichita, KS 67226",
+            "phone": "(316) 613-2224",
+            "fax": "(316) 613-2191",
+            "hours": "CLOSED - <br />REMODELING"
+        },
+        {
+            "state": "Missouri",
+            "city": "Blue Springs",
+            "address": "722 N 7 Hwy., <br />Blue Springs, MO 64014",
+            "phone": "(816) 220-8900",
+            "fax": "(816) 220-9340",
+            "hours": "5:30am – 2:00pm Mon-Sat <br />6:00am – 2:00pm Sun"
+        },
+        {
+            "state": "Missouri",
+            "city": "Kansas City",
+            "address": "9926 Holmes Rd., Kansas City, MO 64131",
+            "phone": "(816) 941-9595",
+            "fax": "(816) 941-9594",
+            "hours": "5:30am – 1:00pm Mon-Fri <br />6:00am – 1:00pm Sat-Sun"
+        },
+        {
+            "state": "Missouri",
+            "city": "Kansas City",
+            "address": "3395 Main St., <br />Kansas City, MO 64111",
+            "phone": "(816) 524-5515",
+            "fax": "(816) 524-7504",
+            "hours": "5:30am – 2:00pm Mon-Sun <br />CLOSED Major Holidays"
+        },
+        {
+            "state": "Missouri",
+            "city": "Lee's Summit",
+            "address": "705 SE Melody Lane, Suite G, <br />Lee’s Summit, MO 64063",
+            "phone": "(816) 561-7176",
+            "fax": "(816) 561-7177",
+            "hours": "5:30am – 1:00pm Mon-Sun <br />CLOSED Major Holidays"
+        },
+        {
+            "state": "Missouri",
+            "city": "Lee's Summit",
+            "address": "705 SE Melody Lane, Suite G, <br />Lee’s Summit, MO 64063",
+            "phone": "(816) 561-7176",
+            "fax": "(816) 561-7177",
+            "hours": "5:30am – 1:00pm Mon-Sun <br />CLOSED Major Holidays"
+        },
+        {
+            "state": "Missouri",
+            "city": "Liberty",
+            "address": "1183 W Kansas St.,<br/>Liberty, MO 64068",
+            "phone": "(816) 792-8630",
+            "fax": "(816) 792-2144",
+            "hours": "5:00am – Noon Mon-Tue<br />5:00am – 12:30pm Wed-Sun"
+        },
+        {
+            "state": "Nebraska",
+            "city": "Lincoln",
+            "address": "1601 Q St., Unit F, <br />Lincoln, NE 68508",
+            "phone": "(402) 477-5554",
+            "fax": "(402) 477-5704",
+            "hours": "CLOSED - <br />REMODELING"
+        },
+        {
+            "state": "Nebraska",
+            "city": "Lincoln",
+            "address": "4822 Pioneers Blvd.<br />Lincoln, NE 68506",
+            "phone": "(402) 484-5555",
+            "fax": "(402) 480-6222",
+            "hours": "5:00am – 4:00pm Mon-Sat<br /> 6:00am – 4:00pm Sun"
+        },
+        {
+            "state": "Nebraska",
+            "city": "Omaha",
+            "address": "17202 Audrey St., <br />Omaha, NE 68136",
+            "phone": "(402) 933-7444",
+            "fax": "(402) 933-7666",
+            "hours": "4:00am – 4:00pm Mon-Sat<br /> 6:00am – 6:00pm Sun"
+        }
+    ]
+    
+}
